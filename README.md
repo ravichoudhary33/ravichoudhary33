@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on scaling machine learning workflow and distributed training of deep learning models 
 - 🌱 I’m currently learning about Large-Scale Recommendation System and Distributed System
-- 👯 I’m looking to collaborate on interesting open source project related to AI in healthcare
+- 👯 I’m looking to collaborate on interesting open source project related to AI in healthcare & Blockchain technology
