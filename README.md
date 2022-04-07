@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on designing and scaling AI platform and building Feature Store for the ML models 
-- 🌱 I’m currently learning about Large-Scale Recommendation System and Distributed System
+- 🌱 I’m currently learning about Distributed System and Blockchain technology
 - 👯 I’m looking to collaborate on interesting open source project related to AI in healthcare & Blockchain technology
