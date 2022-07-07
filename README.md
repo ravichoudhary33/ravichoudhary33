@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on designing and scaling AI platform and Distibuted Systems. 
 - 🌱 I’m always learning and exploring about Distributed Computing and MLOps.
-- 👯 I’m looking to collaborate on interesting open source project related to AI in healthcare
+- 👯 I’m looking to collaborate on interesting open source project related to AI.
