@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on designing and scaling AI platform with Distibuted Systems. 
-- 🌱 I’m always learning and exploring about Distributed Computing, SOTA DL/ML models and MLOps.
+- 🔭 I’m currently working on development, designing and scaling AI platform with Distibuted Systems. 
+- 🌱 I’m always learning and exploring about Distributed Systems, SOTA DL/ML models and MLOps.
 - 👯 I’m looking to collaborate on interesting open source project related to AI.
